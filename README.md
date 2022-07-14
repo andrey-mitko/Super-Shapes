@@ -6,6 +6,10 @@
 
 - [View Live Website](https://andrey-mitko.github.io/Super-Shapes/ "Live View")
 
+## 📺 Demo
+
+![Website Demo](demo.gif)
+
 ## 🛠 Built With
 
 - TailwindCSS
